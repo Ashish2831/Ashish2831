@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.blogger.com/profile/15428333489831395887](https://www.blogger.com/profile/15428333489831395887)
 
-- 💬 Ask me about **Python, C++, Html, Css, Javascript, JQuery, Flask, Django, Competitive Coding.**
+- 💬 Ask me about **Python, C++, Html, Css, Javascript, JQuery, Flask, Django, Django Rest Framework, Competitive Coding.**
 
 - 📫 How to reach me **ashishpatil28032001@gmail.com**
 
