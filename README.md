@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Patil</h1>
-<h3 align="center">A Passionate Frontend and Backend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Python Django Web Development.**
+- 🔭 Currently working on **Python Django Web Development**
 
-- 🌱 I’m currently learning **Django, NodeJS, ReactJS, Rest APIs.**
+- 🌱 Learning **AWS, DevOps, Linux, System Design**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development.**
+- 👯 Looking to collaborate on **Full Stack Web Development**
 
-- 🤝 I’m looking for help with **Python, C++, Frontend and Backend Development.**
-
-- 👨‍💻 All of my projects are available at [https://www.blogger.com/profile/15428333489831395887](https://www.blogger.com/profile/15428333489831395887)
-
-- 💬 Ask me about **Python, C++, Html, Css, Javascript, JQuery, Flask, Django, Django Rest Framework, Competitive Coding.**
+- 💬 Ask me about **Python, C++, Html, Css, Bootstrap, Javascript, MERN Stack, Flask, Django, Django Rest Framework, AWS, Heroku, Competitive Coding.**
 
 - 📫 How to reach me **ashishpatil28032001@gmail.com**
 
