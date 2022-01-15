@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashish-patil-ab2879192" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="ashish-patil-ab2879192" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishpatil2831" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashishpatil2831" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ashish_28/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/CodeChef.png" alt="ashish_28" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2831&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2831" /> </p>
