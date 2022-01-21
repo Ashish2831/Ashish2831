@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Patil</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-- 🔭 Currently working on **Python Django Web Development**
+- 🔭 Currently working on **Python Django Web Development and MERN Stack**
 
 - 🌱 Learning **AWS, DevOps, Linux, System Design**
 
