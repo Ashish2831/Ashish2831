@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, C++, Html, Css, Bootstrap, Javascript, MERN Stack, Flask, Django, Django Rest Framework, AWS, Heroku, Competitive Coding.**
 
-- 📫 How to reach me **ashishpatil28032001@gmail.com**
+- 📫 How to reach me **ashishpatil96579@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
