@@ -3,11 +3,11 @@
 
 - 🔭 Currently working on **Python Django Web Development and MERN Stack**
 
-- 🌱 Learning **AWS, DevOps, Linux, System Design**
+- 🌱 Learning **Advanced AWS, DevOps, Linux, System Design**
 
 - 👯 Looking to collaborate on **Full Stack Web Development**
 
-- 💬 Ask me about **Python, C++, Html, Css, Bootstrap, Javascript, MERN Stack, Flask, Django, Django Rest Framework, AWS, Heroku, Competitive Coding.**
+- 💬 Ask me about **Python, C++, Html, CSS, Bootstrap, Javascript, MERN Stack, Flask, Django, Django Rest Framework, AWS, Heroku, and Competitive Coding.**
 
 - 📫 How to reach me **ashishpatil96579@gmail.com**
 
