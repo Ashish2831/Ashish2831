@@ -1,31 +1,154 @@
-<h1 align="center">Hi 👋, I'm Ashish Patil</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+## <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">Hi👋, I'm [Ashish Patil](https://www.linkedin.com/in/ashish-patil-ab2879192/)</p>
 
-- 🔭 Currently working on **Python Django Web Development and MERN Stack**
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+</h3>
 
-- 🌱 Learning **Advanced AWS, DevOps, Linux, System Design**
-
-- 👯 Looking to collaborate on **Full Stack Web Development**
-
-- 💬 Ask me about **Python, C++, Html, CSS, Bootstrap, Javascript, MERN Stack, Flask, Django, Django Rest Framework, AWS, Heroku, and Competitive Coding.**
-
-- 📫 How to reach me **ashishpatil96579@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish-patil-ab2879192" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="ashish-patil-ab2879192" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashishpatil2831" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ashishpatil2831" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashishpatil96579/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/GeeksforGeeks.png" alt="ashishpatil96579" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashish_28/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/codechef.png" alt="ashish_28" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=45&lines=Passionate+Full+Stack+Developer+From+India;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
+
+<h3 align="center"><u>Software Developer 🧑🏻‍💻</u></h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2831&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2831" /> </p>
 
+- 🔭 Currently working on **Python Django Web Development and MERN Stack**
+- 🌱 Learning **Advanced AWS, DevOps, Linux, System Design**
+- 👯 Looking to collaborate on **Full Stack Web Development**
+- 💬 Ask me about **Python, C++, Javascript, MERN Stack, Django, Django Rest Framework, AWS, Heroku, and Competitive Coding.**
+- 📫 How to reach me **ashishpatil96579@gmail.com**
+
+<h3>Connect with Me</h3>
+<p align="center">
+<br/>
+<a href="https://linkedin.com/in/ashish-patil-ab2879192/">
+  <img alt="LinkdeIN-ashish-patil-ab2879192" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ashishpatil2831/">
+  <img alt="Instagram-ashishpatil2831" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/ashishpatil96579/">
+  <img alt="GeeksForGeeks-ashishpatil96579" width="50px" src="https://img.icons8.com/color/2x/GeeksforGeeks.png" />
+</a>&nbsp;&nbsp;
+ <a href="https://www.codechef.com/users/ashish_28/">
+  <img alt="CodeChef-ashish_28" width="50px" src="https://img.icons8.com/color/2x/codechef.png" />
+</a>&nbsp;&nbsp;
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish2831" alt="ashish2831" /></a> </p>
 
+<h3 align="left">Languages and Tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Node" />
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="Sqlite" />
+      <br>Sqlite
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center"  width="96">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
+      <br>Heroku
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" />
+      <br>Nginx
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="65" height="65" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" width="65" height="65" alt="Ubuntu Linux" />
+      <br>Ubuntu Linux
+    </td>
+ </tr>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2831&show_icons=true&locale=en&layout=compact" alt="ashish2831" /></p>
 
